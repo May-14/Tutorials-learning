@@ -1,0 +1,1 @@
+This lesson from the odin project is lesson two on foundations js lessons. It focuses on types.
