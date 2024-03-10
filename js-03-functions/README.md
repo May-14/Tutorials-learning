@@ -1,1 +1,1 @@
-Code from Odin's lesson on js functions.
+Microrepo for Odin's lesson on js functions.
