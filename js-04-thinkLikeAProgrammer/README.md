@@ -1,0 +1,1 @@
+A micro repo for solving the following problem: "write a program that reads ten numbers and figures out which number is the third highest." Part of a article mentioned in the think like a programmer lesson on Odin's curriculum.
