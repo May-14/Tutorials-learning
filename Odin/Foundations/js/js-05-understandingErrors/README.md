@@ -1,0 +1,1 @@
+A micro-repo for Odin's lesson on solving errors, more specifically the MDN assignment on fixing their number guessing game.
