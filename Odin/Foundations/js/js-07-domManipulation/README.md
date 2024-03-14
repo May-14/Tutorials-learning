@@ -1,0 +1,1 @@
+A micro repo for practicing the DOM manipulation of the Odin Project's Foundations curriculum.
