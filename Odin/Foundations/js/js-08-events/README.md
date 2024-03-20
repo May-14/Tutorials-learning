@@ -1,0 +1,1 @@
+A micro repo dedicated to the resource given by the Odin Project, which teaches js events. Resource is chapter seven of js tutorials "JavaScript DOM" lesson.
